@@ -1,4 +1,4 @@
-### Tasty Kitchens Ap
+### Tasty Kitchens App
 
 ### Set Up Instructions
 
